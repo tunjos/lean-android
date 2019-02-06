@@ -22,6 +22,7 @@ Release Notes
 ](https://developer.android.com/studio/releases/gradle-plugin)
 - [Gradle Releases](https://gradle.org/releases/)
 - [SDK Platform release notes](https://developer.android.com/studio/releases/platforms)
+- [Kotlin Releasese](https://blog.jetbrains.com/kotlin/category/releases/)
 
 Tutorials
 ---
