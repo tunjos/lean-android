@@ -11,11 +11,8 @@ Android
 - [Install Android Studio](https://developer.android.com/studio/install)
 - [Android Jetpack](https://developer.android.com/jetpack)
 - [Android Developers Blog](https://android-developers.googleblog.com/)
-
-
 - [Configure your build](https://developer.android.com/studio/build/)
 - [Gradle tips and recipes](https://developer.android.com/studio/build/gradle-tips)
-
 - [Platform Architecture](https://developer.android.com/guide/platform/)
 
 Release Notes
@@ -51,8 +48,6 @@ Google Play
 - [Google Play - Developer Policy Center - Updates](https://play.google.com/about/updates-resources/updates/)
 - [Google Play - Developer Policy Center - Privacy, Security, and Deception](https://play.google.com/about/privacy-security-deception/)
 - [Google Play - Developer Policy Center - Enforcement](https://play.google.com/about/enforcement/)
-
-
 - [Quality guidelines](https://developer.android.com/docs/quality-guidelines/)
 - [Core app quality](https://developer.android.com/docs/quality-guidelines/core-app-quality)
 
@@ -64,7 +59,7 @@ Android Experts
 
 Kotlin
 ---
-
+- [lean-kotlin](https://github.com/tunjos/lean-kotlin)
 - [Kotlin and Android](https://developer.android.com/kotlin/)
 - [Using Kotlin for Android Development](https://kotlinlang.org/docs/reference/android-overview.html)
 - [Get Started with Kotlin on Android
@@ -72,14 +67,8 @@ Kotlin
 - [Kotlin-Java interop guide](https://developer.android.com/kotlin/interop)
 - [Kotlin style guide](https://developer.android.com/kotlin/style-guide)
 - [Kotlin on Android FAQ](https://developer.android.com/kotlin/faq)
-
-
-- [lean-kotlin](https://github.com/tunjos/lean-kotlin)
-
-
 - [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/index.html)
 - [Kotlin Standard Library - All Types](https://kotlinlang.org/api/latest/jvm/stdlib/alltypes/index.html)
-
 - [core-ktx - alltypes](https://android.github.io/android-ktx/core-ktx/alltypes/index.html)
 - [core-ktx](https://android.github.io/android-ktx/core-ktx/index.html)
 - [Resources to Learn Kotlin](https://developer.android.com/kotlin/resources)
@@ -88,11 +77,7 @@ Sample Apps
 ---
 - [android-sunflower](https://github.com/googlesamples/android-sunflower)
 - [iosched](https://github.com/google/iosched)
-
-
 - [Android Developers Samples - Kotlin](https://developer.android.com/samples/?language=kotlin)
 - [Android Developers Samples - Java](https://developer.android.com/samples/?language=java)
-
-
 - [Plaid](https://github.com/nickbutcher/plaid)
 - [Bourbon](https://github.com/hitherejoe/Bourbon)
