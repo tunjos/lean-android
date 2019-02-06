@@ -29,7 +29,7 @@ Tutorials
 - [Google Codelabs](https://codelabs.developers.google.com/)
 - [Google Codelabs - Android](https://codelabs.developers.google.com/?cat=Android)
 - [Google Codelabs - Kotlin](https://codelabs.developers.google.com/?cat=Kotlin)
-[](https://www.tutorialspoint.com/android/index.htm)
+- [Android Tutorials - TutorialsPoint](https://www.tutorialspoint.com/android/index.htm)
 
 Videos
 ---
