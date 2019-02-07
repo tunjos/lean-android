@@ -57,6 +57,7 @@ Android Experts
 - [Jake Wharton](https://jakewharton.com/)
 - [Antonio Leiva](https://antonioleiva.com/)
 - [Mark Lawrence Murphy - CommonsWare](https://commonsware.com/)
+- [Google Developers Experts (GDEs) - Android](https://developers.google.com/experts/all/technology/android)
 
 Kotlin
 ---
