@@ -59,6 +59,10 @@ Android Experts
 - [Mark Lawrence Murphy - CommonsWare](https://commonsware.com/)
 - [Google Developers Experts (GDEs) - Android](https://developers.google.com/experts/all/technology/android)
 
+Events
+---
+[Droicon](https://www.droidcon.com/about)
+
 Kotlin
 ---
 - [lean-kotlin](https://github.com/tunjos/lean-kotlin)
